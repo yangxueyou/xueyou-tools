@@ -1,11 +1,11 @@
 # 启动
 
 ``` js
-npm i docsify-cli -g
+$ npm i docsify-cli -g
 
-docsify init projectName
+$ docsify init projectName
 
-docsify serve xueyou-tools
+$ docsify serve xueyou-tools
 
 ```
 
