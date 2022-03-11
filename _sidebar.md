@@ -1,4 +1,3 @@
-
 - [微前端](/src/0011.md)
 - [低代码](/src/0005.md)
 - [套路](/src/0004.md)
@@ -7,4 +6,5 @@
 - [echarts](/src/0007.md)
 - [docker](/src/0008.md)
 - [计算机基础](/src/0012.md)
-- [项目规范](https://yangxueyou.github.io/xueyou-standard/#/)
+- [面试题](https://yangxueyou.github.io/xueyou-interview/#/)
+- [项目、配置、规范](https://yangxueyou.github.io/xueyou-standard/#/)
