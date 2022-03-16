@@ -6,5 +6,8 @@
 - [echarts](/src/0007.md)
 - [docker](/src/0008.md)
 - [计算机基础](/src/0012.md)
-- [面试题](https://yangxueyou.github.io/xueyou-interview/#/)
-- [项目、配置、规范](https://yangxueyou.github.io/xueyou-standard/#/)
+
+- 杂货
+  - [跨域](/src/0200/0210/0202.md)
+  - [.env](/src/0200/0210/0203.md)
+  - [脚手架](/src/0200/0210/0204.md)
